@@ -1,5 +1,5 @@
 class Intern
     def peer(str)
-        return str
+        str
     end
 end
